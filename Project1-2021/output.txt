@@ -1,0 +1,2565 @@
+Query: 1
+Nearest neighbor-1: 2177
+distanceLSH: 276.782
+distanceTrue: 276.782
+tLSH: 169
+tTrue: -
+300-near neighbors: 
+3753
+191
+2177
+
+Query: 2
+Nearest neighbor-1: 9565
+distanceLSH: 275.349
+distanceTrue: 256.852
+tLSH: 242
+tTrue: -
+300-near neighbors: 
+146
+1534
+9565
+1544
+4098
+2389
+2756
+3014
+9937
+3139
+
+Query: 3
+Nearest neighbor-1: 5788
+distanceLSH: 251.237
+distanceTrue: 206.737
+tLSH: 335
+tTrue: -
+300-near neighbors: 
+3237
+5483
+5788
+6048
+6432
+6847
+6950
+7218
+8638
+9762
+9809
+4567
+7816
+9122
+9854
+2048
+2132
+2917
+3791
+5172
+5174
+5489
+6429
+6883
+7762
+9483
+5046
+8174
+8177
+8600
+
+Query: 4
+Nearest neighbor-1: 107
+distanceLSH: 276.984
+distanceTrue: 215.177
+tLSH: 391
+tTrue: -
+300-near neighbors: 
+8732
+3526
+9938
+2909
+4095
+146
+685
+1069
+1100
+107
+
+Query: 5
+Nearest neighbor-1: 5898
+distanceLSH: 279.383
+distanceTrue: 250.509
+tLSH: 491
+tTrue: -
+300-near neighbors: 
+359
+3463
+4560
+9003
+5898
+4004
+4840
+5759
+
+Query: 6
+Nearest neighbor-1: 2608
+distanceLSH: 311.488
+distanceTrue: 275.151
+tLSH: 568
+tTrue: -
+300-near neighbors: 
+4944
+
+Query: 7
+Nearest neighbor-1: 3014
+distanceLSH: 252.816
+distanceTrue: 246.609
+tLSH: 601
+tTrue: -
+300-near neighbors: 
+3688
+1683
+2436
+3014
+1917
+1469
+3544
+3944
+8774
+2177
+2639
+
+Query: 8
+Nearest neighbor-1: 2805
+distanceLSH: 211.641
+distanceTrue: 173.948
+tLSH: 688
+tTrue: -
+300-near neighbors: 
+2022
+2666
+6480
+6649
+8998
+9344
+1236
+3020
+6326
+7284
+2805
+6832
+7119
+7172
+8709
+81
+1035
+1906
+2206
+2337
+3309
+3634
+4649
+5752
+6022
+6080
+6092
+6901
+8164
+8350
+9250
+9930
+6712
+7196
+
+Query: 9
+Nearest neighbor-1: 1657
+distanceLSH: 278.643
+distanceTrue: 248.473
+tLSH: 803
+tTrue: -
+300-near neighbors: 
+353
+1068
+1563
+4392
+8382
+1657
+5056
+766
+1660
+2941
+4738
+4777
+5721
+515
+7589
+
+Query: 10
+Nearest neighbor-1: 1672
+distanceLSH: 269.247
+distanceTrue: 250.014
+tLSH: 909
+tTrue: -
+300-near neighbors: 
+1056
+1587
+4554
+4840
+5759
+5970
+928
+4548
+5304
+7574
+1672
+
+Query: 11
+Nearest neighbor-1: 2961
+distanceLSH: 324.077
+distanceTrue: 293.883
+tLSH: 973
+tTrue: -
+300-near neighbors: 
+
+Query: 12
+Nearest neighbor-1: 4763
+distanceLSH: 206.608
+distanceTrue: 172.163
+tLSH: 1007
+tTrue: -
+300-near neighbors: 
+9
+21
+75
+609
+1613
+2654
+3046
+3666
+4391
+4679
+4726
+4926
+5019
+11
+33
+113
+1359
+1823
+4496
+4662
+4699
+4806
+5187
+5355
+5540
+5541
+9217
+62
+1208
+1466
+3979
+4590
+4594
+4700
+4730
+4739
+4877
+5978
+6336
+205
+653
+1234
+2210
+2257
+2460
+2942
+3165
+3600
+4595
+4641
+4642
+4694
+4827
+4906
+8550
+8722
+80
+102
+163
+961
+1360
+1547
+2033
+2994
+3358
+3890
+4484
+4510
+4539
+4660
+4763
+5619
+6274
+6354
+7126
+8974
+
+Query: 13
+Nearest neighbor-1: 131
+distanceLSH: 250.072
+distanceTrue: 238.55
+tLSH: 1079
+tTrue: -
+300-near neighbors: 
+2578
+2650
+3249
+3625
+4058
+9526
+9825
+131
+3136
+9541
+9845
+107
+171
+485
+2183
+9520
+9716
+9760
+
+Query: 14
+Nearest neighbor-1: 1532
+distanceLSH: 272.156
+distanceTrue: 244.677
+tLSH: 1143
+tTrue: -
+300-near neighbors: 
+1323
+3137
+3531
+9716
+121
+1532
+4098
+9838
+9861
+
+Query: 15
+Nearest neighbor-1: 1020
+distanceLSH: 288.399
+distanceTrue: 273.317
+tLSH: 1229
+tTrue: -
+300-near neighbors: 
+1020
+70
+907
+
+Query: 16
+Nearest neighbor-1: 5092
+distanceLSH: 261.675
+distanceTrue: 253.683
+tLSH: 1320
+tTrue: -
+300-near neighbors: 
+234
+3151
+4210
+21
+1484
+1420
+3039
+8215
+4474
+5092
+8949
+732
+
+Query: 17
+Nearest neighbor-1: 8548
+distanceLSH: 255.19
+distanceTrue: 248.2
+tLSH: 1413
+tTrue: -
+300-near neighbors: 
+1046
+1273
+1296
+2851
+2961
+3952
+9695
+97
+1100
+1599
+2272
+3711
+4037
+4045
+758
+2173
+4450
+9806
+2098
+8548
+8353
+
+Query: 18
+Nearest neighbor-1: 997
+distanceLSH: 283.693
+distanceTrue: 254.635
+tLSH: 1490
+tTrue: -
+300-near neighbors: 
+485
+610
+997
+1917
+8213
+1963
+1363
+173
+
+Query: 19
+Nearest neighbor-1: 1253
+distanceLSH: 283.272
+distanceTrue: 266.889
+tLSH: 1541
+tTrue: -
+300-near neighbors: 
+1049
+1253
+476
+1457
+2615
+9417
+4366
+
+Query: 20
+Nearest neighbor-1: 9577
+distanceLSH: 233.495
+distanceTrue: 224.751
+tLSH: 1618
+tTrue: -
+300-near neighbors: 
+155
+272
+288
+293
+982
+1581
+1989
+3044
+126
+1296
+2608
+3513
+3614
+3646
+3688
+9569
+1262
+1282
+2348
+3013
+3829
+8731
+9826
+9844
+122
+484
+1039
+1708
+2108
+2114
+2177
+2495
+2650
+3212
+3249
+3299
+3626
+4095
+8479
+8887
+9521
+9630
+9759
+9886
+127
+147
+148
+611
+1070
+1917
+3138
+3242
+3999
+8518
+9520
+9577
+
+Query: 21
+Nearest neighbor-1: 4761
+distanceLSH: 204.778
+distanceTrue: 192.984
+tLSH: 1700
+tTrue: -
+300-near neighbors: 
+1697
+2351
+2386
+2522
+3237
+3643
+4761
+6524
+6608
+6618
+6633
+7263
+7614
+7724
+8102
+8196
+8978
+604
+3505
+4226
+4712
+4826
+4850
+4912
+5074
+5200
+5883
+6438
+6440
+6811
+7818
+8256
+9997
+4819
+5569
+5737
+5778
+6123
+6950
+7737
+8225
+1278
+1479
+8200
+8677
+9153
+9946
+4690
+4692
+5006
+5675
+7996
+
+Query: 22
+Nearest neighbor-1: 4491
+distanceLSH: 80.8455
+distanceTrue: 80.8455
+tLSH: 1768
+tTrue: -
+300-near neighbors: 
+183
+810
+4592
+4660
+4822
+5003
+5026
+5058
+5084
+5085
+5138
+5321
+5627
+7549
+8223
+8363
+9413
+9549
+360
+903
+2059
+4464
+4505
+4709
+4717
+5216
+7146
+8646
+8950
+9384
+86
+169
+4485
+4537
+4631
+4673
+4794
+5166
+5633
+7265
+7887
+9421
+9434
+9474
+22
+31
+79
+733
+1002
+4491
+4647
+4679
+4877
+4915
+5382
+5568
+5738
+5863
+7399
+7840
+8959
+167
+3662
+4507
+4739
+4771
+5207
+5210
+5862
+6217
+8722
+9525
+
+Query: 23
+Nearest neighbor-1: 4680
+distanceLSH: 202.425
+distanceTrue: 173.052
+tLSH: 1845
+tTrue: -
+300-near neighbors: 
+8
+181
+183
+1661
+4553
+4592
+4605
+4730
+4806
+4822
+5003
+5058
+5085
+5133
+5321
+6932
+7264
+80
+623
+1527
+3979
+4485
+4507
+4586
+4828
+5048
+5542
+5721
+6828
+9257
+9417
+9610
+591
+2994
+4504
+4539
+4648
+4661
+4983
+7422
+9019
+9770
+160
+279
+516
+904
+1135
+1179
+1650
+2768
+4568
+4591
+4698
+4754
+5042
+5087
+5303
+5543
+6518
+8217
+8649
+8721
+15
+546
+557
+1546
+1659
+3011
+4481
+4680
+4740
+5027
+5044
+5820
+6814
+
+Query: 24
+Nearest neighbor-1: 1343
+distanceLSH: 276.944
+distanceTrue: 253.941
+tLSH: 1925
+tTrue: -
+300-near neighbors: 
+2983
+8519
+4597
+6129
+7805
+8189
+113
+593
+1343
+1745
+4459
+4474
+5092
+5748
+5084
+5732
+
+Query: 25
+Nearest neighbor-1: 4555
+distanceLSH: 156.547
+distanceTrue: 154.227
+tLSH: 2022
+tTrue: -
+300-near neighbors: 
+119
+206
+475
+872
+903
+1252
+1277
+1563
+1903
+3930
+4509
+4555
+4642
+4737
+5652
+1011
+4926
+6110
+7118
+9421
+5589
+8795
+9465
+4633
+5027
+6025
+6424
+9793
+1901
+4682
+8665
+
+Query: 26
+Nearest neighbor-1: 8664
+distanceLSH: 296.16
+distanceTrue: 271.61
+tLSH: 2104
+tTrue: -
+300-near neighbors: 
+8664
+
+Query: 27
+Nearest neighbor-1: 9900
+distanceLSH: 183.442
+distanceTrue: 183.442
+tLSH: 2140
+tTrue: -
+300-near neighbors: 
+207
+405
+4604
+4680
+5597
+7059
+9104
+9327
+58
+1467
+2185
+3404
+4631
+4983
+5058
+6266
+6702
+7981
+9561
+9900
+92
+360
+4496
+4549
+4591
+4596
+4642
+4926
+4942
+5132
+5861
+5862
+6354
+60
+1526
+2072
+4715
+6609
+7744
+557
+751
+1546
+1659
+4481
+5027
+5055
+5820
+6737
+8377
+
+Query: 28
+Nearest neighbor-1: 5964
+distanceLSH: 175.516
+distanceTrue: 175.516
+tLSH: 2203
+tTrue: -
+300-near neighbors: 
+410
+689
+1918
+2915
+4452
+5866
+7423
+8052
+8245
+8699
+71
+1145
+2422
+4578
+5850
+8913
+9420
+9708
+6132
+7950
+9103
+1587
+1640
+2170
+2919
+3901
+4554
+5304
+5530
+5610
+5682
+6403
+7002
+2874
+5113
+5964
+6109
+7126
+7643
+7787
+8974
+
+Query: 29
+Nearest neighbor-1: 5478
+distanceLSH: 244.612
+distanceTrue: 224.86
+tLSH: 2281
+tTrue: -
+300-near neighbors: 
+5511
+4314
+4479
+4548
+5837
+6267
+7298
+7575
+7907
+550
+4861
+5162
+5478
+5859
+7642
+9601
+9813
+9900
+4584
+6266
+9398
+9531
+4512
+4583
+4803
+
+Query: 30
+Nearest neighbor-1: 6488
+distanceLSH: 188.125
+distanceTrue: 125.379
+tLSH: 2325
+tTrue: -
+300-near neighbors: 
+4826
+6202
+6883
+1697
+4226
+4850
+4912
+5074
+5200
+5883
+6126
+6955
+7738
+8196
+9997
+4857
+5174
+5237
+6488
+6633
+4867
+5461
+5993
+6048
+6361
+6432
+8075
+8883
+9890
+7352
+8605
+9721
+
+Query: 31
+Nearest neighbor-1: 3369
+distanceLSH: 284.116
+distanceTrue: 265.377
+tLSH: 2398
+tTrue: -
+300-near neighbors: 
+290
+3369
+4648
+4689
+7059
+4497
+5653
+
+Query: 32
+Nearest neighbor-1: 4670
+distanceLSH: 309.401
+distanceTrue: 109.192
+tLSH: 2461
+tTrue: -
+300-near neighbors: 
+
+Query: 33
+Nearest neighbor-1: 5301
+distanceLSH: 187.563
+distanceTrue: 187.563
+tLSH: 2507
+tTrue: -
+300-near neighbors: 
+901
+5301
+6509
+
+Query: 34
+Nearest neighbor-1: 3934
+distanceLSH: 340.103
+distanceTrue: 328.279
+tLSH: 2587
+tTrue: -
+300-near neighbors: 
+
+Query: 35
+Nearest neighbor-1: 8863
+distanceLSH: 262.463
+distanceTrue: 248.554
+tLSH: 2625
+tTrue: -
+300-near neighbors: 
+4779
+8863
+3051
+9900
+
+Query: 36
+Nearest neighbor-1: 2140
+distanceLSH: 304.317
+distanceTrue: 120.975
+tLSH: 2666
+tTrue: -
+300-near neighbors: 
+
+Query: 37
+Nearest neighbor-1: 4273
+distanceLSH: 282.73
+distanceTrue: 111.459
+tLSH: 2698
+tTrue: -
+300-near neighbors: 
+4273
+8535
+
+Query: 38
+Nearest neighbor-1: 5185
+distanceLSH: 166.856
+distanceTrue: 166.856
+tLSH: 2763
+tTrue: -
+300-near neighbors: 
+5185
+
+Query: 39
+Nearest neighbor-1: 5178
+distanceLSH: 162.034
+distanceTrue: 156.359
+tLSH: 2801
+tTrue: -
+300-near neighbors: 
+5178
+5342
+6188
+
+Query: 40
+Nearest neighbor-1: 7003
+distanceLSH: 207.538
+distanceTrue: 193.977
+tLSH: 2847
+tTrue: -
+300-near neighbors: 
+4691
+5045
+5477
+6619
+6704
+7485
+9121
+2483
+4851
+5238
+7168
+9069
+1995
+2133
+2298
+5104
+5864
+1089
+1146
+1339
+1593
+1821
+2892
+3632
+4814
+4832
+4844
+5093
+5128
+5460
+6289
+6356
+6733
+6824
+7001
+7003
+7219
+7345
+7982
+8103
+8606
+9156
+3768
+5650
+5884
+9810
+9875
+9911
+9914
+
+Query: 41
+Nearest neighbor-1: 7025
+distanceLSH: 261.402
+distanceTrue: 153.564
+tLSH: 2916
+tTrue: -
+300-near neighbors: 
+7025
+891
+
+Query: 42
+Nearest neighbor-1: 7849
+distanceLSH: 224.58
+distanceTrue: 200.494
+tLSH: 2985
+tTrue: -
+300-near neighbors: 
+2579
+7251
+7893
+8242
+9654
+50
+69
+2037
+2871
+3380
+3842
+4160
+4384
+4772
+5537
+6284
+6334
+6376
+6542
+6646
+7178
+7684
+7705
+7841
+7849
+7958
+8229
+8871
+8967
+9249
+9731
+9834
+9840
+38
+1310
+4896
+5038
+5505
+4421
+5393
+6214
+8057
+3778
+
+Query: 43
+Nearest neighbor-1: 5225
+distanceLSH: 236.772
+distanceTrue: 236.772
+tLSH: 3058
+tTrue: -
+300-near neighbors: 
+2461
+5225
+5176
+8106
+1465
+6748
+
+Query: 44
+Nearest neighbor-1: 6303
+distanceLSH: 165.339
+distanceTrue: 165.339
+tLSH: 3111
+tTrue: -
+300-near neighbors: 
+766
+4979
+5145
+5220
+6303
+8392
+
+Query: 45
+Nearest neighbor-1: 5931
+distanceLSH: 260.085
+distanceTrue: 256.353
+tLSH: 3182
+tTrue: -
+300-near neighbors: 
+8221
+5931
+7892
+449
+
+Query: 46
+Nearest neighbor-1: 4964
+distanceLSH: 282.046
+distanceTrue: 261.362
+tLSH: 3233
+tTrue: -
+300-near neighbors: 
+2467
+4712
+4964
+750
+1278
+
+Query: 47
+Nearest neighbor-1: 5881
+distanceLSH: 99.6293
+distanceTrue: 99.6293
+tLSH: 3269
+tTrue: -
+300-near neighbors: 
+5881
+8219
+9161
+6285
+6297
+6829
+9229
+9670
+3840
+
+Query: 48
+Nearest neighbor-1: 1885
+distanceLSH: 334.818
+distanceTrue: 294.394
+tLSH: 3323
+tTrue: -
+300-near neighbors: 
+
+Query: 49
+Nearest neighbor-1: 977
+distanceLSH: 288.638
+distanceTrue: 155.763
+tLSH: 3355
+tTrue: -
+300-near neighbors: 
+977
+5214
+
+Query: 50
+Nearest neighbor-1: 5139
+distanceLSH: 172.398
+distanceTrue: 128.783
+tLSH: 3400
+tTrue: -
+300-near neighbors: 
+3011
+4561
+8217
+9618
+248
+4478
+4481
+4509
+32
+334
+4830
+4943
+5048
+5358
+7550
+546
+551
+4484
+4730
+5139
+5407
+6384
+7125
+8651
+9921
+563
+3979
+4983
+5597
+7574
+8147
+
+Query: 51
+Nearest neighbor-1: 5654
+distanceLSH: 181.141
+distanceTrue: 181.141
+tLSH: 3473
+tTrue: -
+300-near neighbors: 
+6628
+5654
+
+Query: 52
+Nearest neighbor-1: 6124
+distanceLSH: 130.813
+distanceTrue: 130.813
+tLSH: 3510
+tTrue: -
+300-near neighbors: 
+6124
+8396
+9860
+3608
+5746
+5762
+5828
+6951
+7725
+7961
+8076
+5073
+
+Query: 53
+Nearest neighbor-1: 6456
+distanceLSH: 227.075
+distanceTrue: 198.776
+tLSH: 3603
+tTrue: -
+300-near neighbors: 
+113
+1719
+2613
+2913
+4477
+4508
+4556
+4614
+4677
+5008
+5611
+5925
+6558
+6680
+7167
+7400
+8253
+8719
+9458
+9590
+9997
+58
+5289
+7265
+7549
+8696
+9951
+61
+810
+1129
+1274
+1479
+5294
+5971
+8048
+8200
+8392
+8832
+9721
+9762
+9809
+63
+903
+1252
+1663
+3237
+4651
+4794
+5567
+5732
+6766
+6779
+6823
+7156
+7420
+8223
+9707
+9876
+375
+928
+1822
+4358
+4626
+4672
+5121
+5180
+5440
+6107
+6456
+7262
+8231
+9466
+
+Query: 54
+Nearest neighbor-1: 1322
+distanceLSH: 241.149
+distanceTrue: 194.178
+tLSH: 3668
+tTrue: -
+300-near neighbors: 
+1090
+2467
+4134
+4609
+4712
+4807
+4964
+5730
+8392
+1322
+4578
+9559
+4857
+5866
+5964
+6086
+6753
+6755
+5089
+5561
+
+Query: 55
+Nearest neighbor-1: 4799
+distanceLSH: 164.627
+distanceTrue: 159.308
+tLSH: 3738
+tTrue: -
+300-near neighbors: 
+898
+2492
+3513
+441
+3459
+4129
+4772
+4799
+6184
+6461
+6523
+7340
+7489
+7629
+9170
+9263
+331
+799
+1310
+2499
+3270
+8909
+9731
+
+Query: 56
+Nearest neighbor-1: 5831
+distanceLSH: 184.043
+distanceTrue: 184.043
+tLSH: 3788
+tTrue: -
+300-near neighbors: 
+5036
+5975
+6638
+6962
+5537
+7229
+5831
+8926
+8967
+6284
+
+Query: 57
+Nearest neighbor-1: 5979
+distanceLSH: 209.062
+distanceTrue: 190.735
+tLSH: 3851
+tTrue: -
+300-near neighbors: 
+54
+160
+168
+689
+1525
+1547
+1727
+2981
+3674
+3960
+4513
+4585
+4596
+4626
+4646
+4672
+4700
+4777
+4812
+4861
+4877
+5057
+5132
+5541
+5634
+5651
+6217
+7049
+7330
+7423
+7886
+8190
+9416
+9525
+120
+1826
+2423
+2659
+3666
+4591
+4642
+4664
+7059
+7478
+8795
+9357
+9413
+366
+1178
+1358
+1424
+1692
+1915
+4191
+4840
+4873
+4899
+5122
+5187
+5571
+6684
+8721
+9215
+2
+74
+158
+491
+766
+768
+889
+946
+1123
+1332
+3046
+3378
+4396
+4592
+4606
+4681
+4739
+4856
+4865
+5019
+5138
+6506
+7573
+8216
+8895
+9097
+9305
+9334
+9528
+9560
+63
+433
+880
+3034
+3404
+4648
+4716
+4795
+5652
+5734
+5979
+7060
+8223
+8442
+8500
+8589
+9103
+9186
+9398
+9523
+9619
+
+Query: 58
+Nearest neighbor-1: 5285
+distanceLSH: 211.688
+distanceTrue: 167.147
+tLSH: 3919
+tTrue: -
+300-near neighbors: 
+107
+226
+5285
+8774
+8810
+9779
+3299
+7396
+3752
+1188
+3138
+3228
+4323
+9795
+1695
+2774
+
+Query: 59
+Nearest neighbor-1: 7238
+distanceLSH: 65.7419
+distanceTrue: 65.7419
+tLSH: 3990
+tTrue: -
+300-near neighbors: 
+7238
+
+Query: 60
+Nearest neighbor-1: 6693
+distanceLSH: 158.177
+distanceTrue: 114.416
+tLSH: 4048
+tTrue: -
+300-near neighbors: 
+2373
+2684
+2934
+4643
+5106
+5126
+5448
+6010
+6458
+7341
+7367
+7547
+9044
+1091
+2498
+5764
+6054
+6183
+6281
+6333
+6821
+8241
+8425
+8487
+8511
+9001
+9472
+9753
+5039
+5517
+6167
+6246
+6693
+7394
+440
+7683
+8014
+8070
+510
+6496
+6522
+7898
+
+Query: 61
+Nearest neighbor-1: 5279
+distanceLSH: 170.309
+distanceTrue: 170.309
+tLSH: 4108
+tTrue: -
+300-near neighbors: 
+4473
+4493
+7268
+9900
+2468
+4491
+4458
+5279
+8721
+
+Query: 62
+Nearest neighbor-1: 8907
+distanceLSH: 249.189
+distanceTrue: 140.357
+tLSH: 4178
+tTrue: -
+300-near neighbors: 
+1891
+4682
+6136
+8646
+2708
+7997
+2482
+6363
+8174
+8907
+9721
+9973
+5382
+9809
+
+Query: 63
+Nearest neighbor-1: 6356
+distanceLSH: 260.647
+distanceTrue: 131.651
+tLSH: 4253
+tTrue: -
+300-near neighbors: 
+4866
+6739
+7001
+7208
+7739
+5455
+6364
+6356
+7876
+
+Query: 64
+Nearest neighbor-1: 5990
+distanceLSH: 133.503
+distanceTrue: 94.9158
+tLSH: 4323
+tTrue: -
+300-near neighbors: 
+1718
+2387
+3504
+3877
+5311
+9722
+1892
+5990
+9749
+9891
+6916
+3518
+3772
+5363
+
+Query: 65
+Nearest neighbor-1: 7005
+distanceLSH: 261.622
+distanceTrue: 138.275
+tLSH: 4355
+tTrue: -
+300-near neighbors: 
+7005
+5942
+
+Query: 66
+Nearest neighbor-1: 6713
+distanceLSH: 233.009
+distanceTrue: 173.381
+tLSH: 4416
+tTrue: -
+300-near neighbors: 
+6334
+9002
+799
+7044
+1237
+2338
+3744
+6646
+6713
+8104
+8124
+8202
+9249
+2685
+477
+860
+1907
+4599
+7634
+
+Query: 67
+Nearest neighbor-1: 5391
+distanceLSH: 200.866
+distanceTrue: 200.866
+tLSH: 4512
+tTrue: -
+300-near neighbors: 
+3265
+5391
+7083
+7160
+
+Query: 68
+Nearest neighbor-1: 7882
+distanceLSH: 251.036
+distanceTrue: 224.225
+tLSH: 4542
+tTrue: -
+300-near neighbors: 
+4650
+6019
+8449
+7882
+8220
+7170
+1931
+9152
+
+Query: 69
+Nearest neighbor-1: 4109
+distanceLSH: 236.635
+distanceTrue: 201.311
+tLSH: 4626
+tTrue: -
+300-near neighbors: 
+296
+1003
+1663
+5237
+5761
+5778
+5823
+5883
+8225
+9890
+552
+1724
+1822
+2633
+4109
+5440
+6123
+9007
+9800
+1781
+3505
+7094
+9483
+8638
+960
+4826
+5436
+6117
+6226
+6440
+8146
+
+Query: 70
+Nearest neighbor-1: 9720
+distanceLSH: 284.714
+distanceTrue: 266.813
+tLSH: 4673
+tTrue: -
+300-near neighbors: 
+4512
+9720
+563
+
+Query: 71
+Nearest neighbor-1: 7487
+distanceLSH: 132.28
+distanceTrue: 46.8188
+tLSH: 4694
+tTrue: -
+300-near neighbors: 
+1528
+2433
+4225
+5122
+5197
+5455
+6632
+9940
+5234
+5648
+6030
+6489
+4566
+5463
+6410
+6786
+7485
+8127
+9801
+9877
+879
+1766
+2298
+3169
+3389
+4162
+5173
+5218
+5488
+5812
+6439
+6908
+6997
+7029
+7258
+7270
+7487
+8777
+9998
+4557
+5469
+5477
+5746
+5922
+6598
+7193
+7739
+
+Query: 72
+Nearest neighbor-1: 9798
+distanceLSH: 275.833
+distanceTrue: 193.675
+tLSH: 4765
+tTrue: -
+300-near neighbors: 
+7509
+9798
+9122
+5457
+6192
+
+Query: 73
+Nearest neighbor-1: 111
+distanceLSH: 346.455
+distanceTrue: 303.211
+tLSH: 4839
+tTrue: -
+300-near neighbors: 
+
+Query: 74
+Nearest neighbor-1: 3488
+distanceLSH: 303.002
+distanceTrue: 230.458
+tLSH: 4868
+tTrue: -
+300-near neighbors: 
+
+Query: 75
+Nearest neighbor-1: 9618
+distanceLSH: 232.213
+distanceTrue: 131.095
+tLSH: 4907
+tTrue: -
+300-near neighbors: 
+447
+690
+1014
+1084
+1089
+1467
+1692
+1966
+2918
+3709
+4366
+4702
+5409
+5628
+5714
+6415
+7265
+7860
+9528
+9986
+60
+61
+67
+785
+1790
+2072
+4700
+4715
+5132
+6491
+8288
+9305
+9556
+9618
+120
+207
+881
+1226
+1450
+1748
+2185
+4729
+5260
+5731
+5969
+6502
+7399
+9398
+9530
+1526
+4463
+7744
+7843
+8619
+9356
+550
+1375
+3545
+4537
+4731
+4856
+5479
+6490
+9105
+9531
+9612
+
+Query: 76
+Nearest neighbor-1: 4882
+distanceLSH: 309.446
+distanceTrue: 212.061
+tLSH: 4985
+tTrue: -
+300-near neighbors: 
+
+Query: 77
+Nearest neighbor-1: 8167
+distanceLSH: 293.085
+distanceTrue: 251.257
+tLSH: 5021
+tTrue: -
+300-near neighbors: 
+8167
+
+Query: 78
+Nearest neighbor-1: 8579
+distanceLSH: 293.716
+distanceTrue: 293.716
+tLSH: 5045
+tTrue: -
+300-near neighbors: 
+8579
+
+Query: 79
+Nearest neighbor-1: 5303
+distanceLSH: 285.463
+distanceTrue: 226.868
+tLSH: 5104
+tTrue: -
+300-near neighbors: 
+5303
+5407
+9474
+8665
+
+Query: 80
+Nearest neighbor-1: 7081
+distanceLSH: 183.363
+distanceTrue: 148.165
+tLSH: 5144
+tTrue: -
+300-near neighbors: 
+81
+99
+859
+6333
+6377
+6522
+6835
+7179
+560
+4643
+5400
+6647
+6721
+7490
+9835
+4895
+5499
+5765
+5929
+6594
+7081
+897
+5291
+5845
+6314
+8966
+9730
+9857
+3522
+5223
+7898
+
+Query: 81
+Nearest neighbor-1: 7856
+distanceLSH: 308.62
+distanceTrue: 146.311
+tLSH: 5220
+tTrue: -
+300-near neighbors: 
+
+Query: 82
+Nearest neighbor-1: 4952
+distanceLSH: 297.303
+distanceTrue: 276.819
+tLSH: 5251
+tTrue: -
+300-near neighbors: 
+4952
+
+Query: 83
+Nearest neighbor-1: 52
+distanceLSH: 273.892
+distanceTrue: 271.982
+tLSH: 5288
+tTrue: -
+300-near neighbors: 
+65
+391
+52
+
+Query: 84
+Nearest neighbor-1: 7944
+distanceLSH: 252.513
+distanceTrue: 181.607
+tLSH: 5342
+tTrue: -
+300-near neighbors: 
+7549
+7944
+9386
+2167
+6383
+8048
+9004
+
+Query: 85
+Nearest neighbor-1: 5568
+distanceLSH: 273.031
+distanceTrue: 192.678
+tLSH: 5417
+tTrue: -
+300-near neighbors: 
+4900
+8231
+1226
+5731
+4509
+9562
+5568
+5629
+7008
+
+Query: 86
+Nearest neighbor-1: 6145
+distanceLSH: 330.97
+distanceTrue: 285.107
+tLSH: 5461
+tTrue: -
+300-near neighbors: 
+
+Query: 87
+Nearest neighbor-1: 5744
+distanceLSH: 255.282
+distanceTrue: 224.907
+tLSH: 5499
+tTrue: -
+300-near neighbors: 
+5744
+6751
+
+Query: 88
+Nearest neighbor-1: 6588
+distanceLSH: 231.208
+distanceTrue: 123.56
+tLSH: 5538
+tTrue: -
+300-near neighbors: 
+6588
+5416
+5691
+
+Query: 89
+Nearest neighbor-1: 7099
+distanceLSH: 75.08
+distanceTrue: 75.08
+tLSH: 5615
+tTrue: -
+300-near neighbors: 
+8720
+6897
+9225
+6902
+7099
+5671
+6370
+8900
+9455
+
+Query: 90
+Nearest neighbor-1: 7628
+distanceLSH: 114.534
+distanceTrue: 114.534
+tLSH: 5679
+tTrue: -
+300-near neighbors: 
+2044
+2220
+2736
+6092
+6881
+7091
+9786
+5923
+6337
+6421
+7628
+8085
+41
+2169
+3495
+4643
+5987
+6377
+6460
+6613
+7814
+8993
+9638
+9957
+4967
+5672
+5765
+7540
+8483
+9379
+9802
+2373
+6112
+7266
+7394
+9978
+
+Query: 91
+Nearest neighbor-1: 9259
+distanceLSH: 50.4579
+distanceTrue: 50.4579
+tLSH: 5773
+tTrue: -
+300-near neighbors: 
+491
+874
+1527
+2919
+4479
+4570
+4641
+4664
+4727
+4854
+4856
+4906
+6266
+7643
+7744
+8458
+9417
+9696
+63
+352
+689
+4504
+4537
+4713
+4741
+4855
+4907
+8216
+9259
+79
+106
+162
+278
+333
+492
+936
+1548
+4464
+4510
+4548
+4561
+4562
+4569
+4640
+4672
+4726
+5019
+5087
+5304
+6953
+7298
+7574
+7589
+9257
+58
+168
+253
+905
+1450
+1756
+2828
+2829
+3045
+3547
+3962
+4305
+4553
+4560
+4830
+4904
+5056
+5057
+5207
+5260
+5633
+6448
+6492
+7124
+8501
+9096
+9299
+9384
+9458
+9792
+74
+113
+159
+251
+556
+653
+1748
+2422
+3546
+4538
+4555
+4587
+4646
+4695
+4728
+4742
+4798
+4821
+5031
+5083
+6267
+7264
+7328
+8567
+8590
+9258
+9333
+9559
+9884
+
+Query: 92
+Nearest neighbor-1: 6270
+distanceLSH: 343.746
+distanceTrue: 298.027
+tLSH: 5877
+tTrue: -
+300-near neighbors: 
+
+Query: 93
+Nearest neighbor-1: 7798
+distanceLSH: 245.21
+distanceTrue: 141.464
+tLSH: 5933
+tTrue: -
+300-near neighbors: 
+957
+7798
+
+Query: 94
+Nearest neighbor-1: 5434
+distanceLSH: 259.917
+distanceTrue: 234.774
+tLSH: 5980
+tTrue: -
+300-near neighbors: 
+5097
+7168
+7421
+7933
+5258
+7003
+8201
+1653
+4108
+4691
+5434
+6124
+6265
+6916
+7079
+7464
+7998
+
+Query: 95
+Nearest neighbor-1: 7487
+distanceLSH: 256.515
+distanceTrue: 160.571
+tLSH: 6034
+tTrue: -
+300-near neighbors: 
+8055
+7412
+5648
+4054
+5455
+8493
+7487
+
+Query: 96
+Nearest neighbor-1: 3056
+distanceLSH: 325.429
+distanceTrue: 305.392
+tLSH: 6114
+tTrue: -
+300-near neighbors: 
+
+Query: 97
+Nearest neighbor-1: 4032
+distanceLSH: 357.307
+distanceTrue: 285.79
+tLSH: 6157
+tTrue: -
+300-near neighbors: 
+
+Query: 98
+Nearest neighbor-1: 8826
+distanceLSH: 233.532
+distanceTrue: 233.532
+tLSH: 6186
+tTrue: -
+300-near neighbors: 
+8826
+
+Query: 99
+Nearest neighbor-1: 5811
+distanceLSH: 138.964
+distanceTrue: 137.43
+tLSH: 6228
+tTrue: -
+300-near neighbors: 
+1697
+2386
+2715
+3237
+3924
+4761
+5265
+6029
+6524
+6608
+6618
+6633
+6911
+7592
+7614
+7675
+7724
+8054
+8102
+8196
+8481
+8978
+9267
+3771
+5147
+5741
+5778
+5811
+7767
+8873
+9068
+9483
+1956
+5074
+5558
+6048
+6456
+9960
+2896
+3555
+4161
+4609
+4677
+5592
+5615
+5914
+6163
+6806
+7082
+7932
+8126
+9466
+5096
+5476
+5991
+6077
+6407
+6907
+7207
+7738
+8050
+
+Query: 100
+Nearest neighbor-1: 4768
+distanceLSH: 308.608
+distanceTrue: 184.613
+tLSH: 6322
+tTrue: -
+300-near neighbors: 
+
